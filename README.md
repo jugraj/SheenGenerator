@@ -1,6 +1,9 @@
 # SheenGenerator
 Create a sheen on Canvas items
 
+//dependencies: createjs, TweenLite
+
+
 USAGE API:
 
 var bitmap = new createAssetBitmap(bitmap:Bitmap, parentContainer:Container);
